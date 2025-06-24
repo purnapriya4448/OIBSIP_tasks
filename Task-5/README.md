@@ -1,5 +1,7 @@
 📈 Sales Prediction Using Python
+
 🎯 Internship Task – Oasis Infobyte
+
 📝 Overview
 This project is part of the Oasis Infobyte Internship Program. The goal of this task is to build a machine learning model that can predict future sales based on several input features like advertising spend, target segment, and marketing platform.
 
